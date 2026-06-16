@@ -1,0 +1,6 @@
+{
+  "name": "Ashity shop",
+  "description": "متجر متعدد الفئات الفاخرة - عطور، ساعات، كروشيه، ملابس أنمي ومكتبة قرطاسية فاخرة بأحدث صيحات الموضة والأناقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
